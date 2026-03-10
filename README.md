@@ -9,7 +9,7 @@ This GitHub profile is mainly a learning space where I document concepts I learn
 Even after 3 years in Quality Engineering, I approach this journey with curiosity, always learning step by step and exploring how software works and how new technologies can help improve workflows.
 
 ## 🌳 What I'm working on
-* [Learning Notes](https://github.com/miks-qa/notes)
+* [Mikka's Notes](https://github.com/miks-qa/notes)
 
 
 ## 🌱 Interests & Learning
