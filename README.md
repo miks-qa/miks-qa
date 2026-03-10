@@ -18,3 +18,8 @@ Even after 3 years in Quality Engineering, I approach this journey with curiosit
 * Basic programming concepts
 * Test automation tools
 * Generative AI and Agentic AI (exploring how AI can be used as a support tool to streamline workflows)
+
+## :art: Fun Facts
+* I used to work as a freelance illustrator, so my GitHub avatar might look familiar!
+* You might notice some similarities with my [carrd](https://miks-qa.carrd.co/) layout, if you've seen an artist's work around, it might be me.
+* I enjoy blending creativity with technology, whether it's testing software or making digital art.
