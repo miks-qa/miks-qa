@@ -4,11 +4,10 @@ I work in **Quality Engineering** and enjoy exploring software testing, automati
 
 This GitHub profile is mainly a **learning space** where I document concepts I learn along the way. Some notes may include simple explanations, reminders, or references to help me understand topics better. This space will grow little by little over time.
 
-Even after 3 years in Quality Engineering, I approach this journey with curiosity, always learning step by step and exploring how software works and how new technologies can help improve workflows.
+I began working in Software Quality Engineering in 2022, and since then I’ve approached this journey with curiosity, always learning step by step and exploring how software works and how new technologies can help improve workflows.
 
 ## 🌳 What I'm working on
 * [Mikka's Notes](https://github.com/miks-qa/notes) – personal **knowledge space** about Quality Engineering and ongoing curiosity to learn new concepts.
-
 
 ## 🌱 Interests & Learning
 * Software testing practices and QA workflows
