@@ -17,15 +17,15 @@ This GitHub serves as a space to showcase my learning, QA notes, and sample test
 Azure DevOps | Selenium | Postman API | SQL | Visual Studio | Browser DevTools
 
 ## 🌳 What I'm working on
-* [QA Notes Repository](https://github.com/miks-qa/notes) – includes sample bug reports, testing concepts, and real-world inspired scenarios, and notes in expanding my knowledge in testing and QA practices.
+- [QA Notes Repository](https://github.com/miks-qa/notes) – includes sample bug reports, testing concepts, and real-world inspired scenarios, and notes in expanding my knowledge in testing and QA practices.
 
 ## 🌱 Interests & Learning
-* Software testing practices and QA workflows
-* Basic programming concepts
-* Test automation tools
-* Generative AI and Agentic AI
+- Software testing practices and QA workflows
+- Basic programming concepts
+- Test automation tools
+- Generative AI and Agentic AI
 
 ## :art: Fun Facts
-* I used to work as a freelance illustrator, so my GitHub avatar might look familiar!
-* You might notice some similarities with my [carrd](https://miks-qa.carrd.co/) layout, if you've seen an artist's work around, it might be me.
-* I enjoy blending creativity with technology, whether it's testing software or making digital art.
+- I used to work as a freelance illustrator, so my GitHub avatar might look familiar!
+- You might notice some similarities with my [carrd](https://miks-qa.carrd.co/) layout, if you've seen an artist's work around, it might be me.
+- I enjoy blending creativity with technology, whether it's testing software or making digital art.
