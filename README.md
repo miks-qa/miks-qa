@@ -1,13 +1,23 @@
 ## Hi, I'm Miks 👋
 
-I work in **Quality Engineering** and enjoy exploring software testing, automation, and new technologies. I'm currently expanding my skills in computer science fundamentals, improving my testing abilities, and exploring topics that spark my curiosity as a QE and lifelong learner.
+I’m a **Quality Engineering** professional with 3+ years of experience in functional, regression, integration, and exploratory testing for web and mobile applications. I’ve worked in Agile/Scrum environments supporting CI/CD releases, collaborating with cross-functional teams, and ensuring software quality through structured testing and clear defect reporting.
 
-This GitHub profile is mainly a **learning space** where I document concepts I learn along the way. Some notes may include simple explanations, reminders, or references to help me understand topics better. This space will grow little by little over time.
+I’m currently based in Canada and continuing to grow my skills in quality assurance, with a strong interest in improving test processes, learning new tools, and writing clear and effective test documentation.
 
-I began working in Software Quality Engineering in 2022, and since then I’ve approached this journey with curiosity, always learning step by step and exploring how software works and how new technologies can help improve workflows.
+This GitHub serves as a space to showcase my learning, QA notes, and sample testing work as I continue to grow my skills in software testing and automation.
+
+## 🧪 What I Do
+- Manual testing (functional, regression, integration, UAT)  
+- Test case design and defect reporting
+- Basic API testing and backend validation (Postman, SQL)  
+- Automated testing (Selenium WebDriver with C#/.NET)  
+- Agile/Scrum collaboration
+
+## 🛠️ Tools
+Azure DevOps | Selenium | Postman API | SQL | Visual Studio | Browser DevTools
 
 ## 🌳 What I'm working on
-* [Mikka's Notes](https://github.com/miks-qa/notes) – personal **knowledge space** about Quality Engineering and ongoing curiosity to learn new concepts.
+* [QA Notes Repository](https://github.com/miks-qa/notes) – includes sample bug reports, testing concepts, and real-world inspired scenarios, and notes in expanding my knowledge in testing and QA practices.
 
 ## 🌱 Interests & Learning
 * Software testing practices and QA workflows
