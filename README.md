@@ -18,6 +18,7 @@ Azure DevOps | Selenium | Postman API | SQL | Visual Studio | Browser DevTools
 
 ## 🌳 What I'm working on
 - [QA Notes Repository](https://github.com/miks-qa/notes) – includes sample bug reports, test pages, testing concepts, real-world inspired scenarios, and notes in expanding my knowledge in testing and QA practices.
+- [Python Learning](https://github.com/miks-qa/python-learning) – my Python learning journey as I work through Python for Everybody and try to build small projects.
 
 ## 🌱 Interests & Learning
 - Software testing practices and QA workflows
