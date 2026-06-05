@@ -21,7 +21,7 @@ This GitHub serves as a space to showcase my learning, QA notes, and sample test
 - Agile/Scrum collaboration
 
 ## 🛠️ Tools
-Azure DevOps | Selenium | Postman API | SQL | Visual Studio | Browser DevTools
+Azure DevOps | Selenium | Postman API | Visual Studio | Browser DevTools
 
 ## 🌱 Interests & Learning
 - Software testing practices and QA workflows
