@@ -9,9 +9,9 @@ Quality Engineering professional with 3+ years of experience in web and mobile a
 
 ## 💼 About Me
 
-I've worked in Agile/Scrum environments supporting CI/CD releases, collaborating with cross-functional teams, and ensuring software quality through structured testing and clear defect reporting.
+I worked as a QA tester in Agile/Scrum environments where I drove software quality through manual testing, test automation, defect analysis, and cross-functional collaboration. I automated test cases within established CI/CD frameworks to support quality assurance and continuous delivery.
 
-This GitHub serves as a space to showcase my learning, QA notes, and sample testing work as I continue to grow my skills in software testing and automation.
+This GitHub showcases my learning, QA notes, and sample testing work as I continue to grow my skills in software testing and automation.
 
 ## 🧪 What I Do
 - Manual testing (functional, regression, integration, UAT)
