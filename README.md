@@ -7,11 +7,13 @@ Quality Engineering professional with 3+ years of experience in web and mobile a
 
 - [Python Learning](https://github.com/miks-qa/python-learning) - my Python learning journey with exercises, projects, and notes as I build programming skills for QA automation.
 
+- [Selenium C# Automation Demo](https://github.com/miks-qa/SeleniumCSharp) - a Selenium WebDriver automation project using C# and NUnit, exploring test automation concepts, Page Object Model (POM), element locators, assertions, and automated test scenarios.
+
 ## 💼 About Me
 
 I worked as a QA tester in Agile/Scrum environments where I drove software quality through manual testing, test automation, defect analysis, and cross-functional collaboration. I automated test cases within established CI/CD frameworks to support quality assurance and continuous delivery.
 
-This GitHub showcases my learning, QA notes, and sample testing work as I continue to grow my skills in software testing and automation.
+This GitHub showcases my QA experience, testing resources, and hands-on automation projects as I continue to grow my skills in software quality and test automation.
 
 ## 🧪 What I Do
 - Manual testing (functional, regression, integration, UAT)
